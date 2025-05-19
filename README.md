@@ -29,8 +29,7 @@ This is a simple and modular **Autocomplete Component** built using **React** an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/autocomplete-component.git
-cd autocomplete-component
+git clone https://github.com/sdass1918/AutoComplete.git
 ```
 
 ### 2. Install Dependencies
